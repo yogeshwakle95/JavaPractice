@@ -1,0 +1,335 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch fibonachi",
+            "request": "launch",
+            "mainClass": "fibonachi",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Automorphic",
+            "request": "launch",
+            "mainClass": "Automorphic",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseTheWord",
+            "request": "launch",
+            "mainClass": "ReverseTheWord",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch CapitalToLowerCase",
+            "request": "launch",
+            "mainClass": "CapitalToLowerCase",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConverSecondToMinue",
+            "request": "launch",
+            "mainClass": "ConverSecondToMinue",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringToInt",
+            "request": "launch",
+            "mainClass": "StringToInt",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumDivBy",
+            "request": "launch",
+            "mainClass": "NumDivBy",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvenNum",
+            "request": "launch",
+            "mainClass": "EvenNum",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch OddNum",
+            "request": "launch",
+            "mainClass": "OddNum",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch DisplayPass",
+            "request": "launch",
+            "mainClass": "DisplayPass",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch ASCIIvalue",
+            "request": "launch",
+            "mainClass": "ASCIIvalue",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise41",
+            "request": "launch",
+            "mainClass": "Exercise41",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch uniqueThreeDigit",
+            "request": "launch",
+            "mainClass": "uniqueThreeDigit",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise39",
+            "request": "launch",
+            "mainClass": "Exercise39",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountingStringSpacDigit",
+            "request": "launch",
+            "mainClass": "CountingStringSpacDigit",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise38",
+            "request": "launch",
+            "mainClass": "Exercise38",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch a",
+            "request": "launch",
+            "mainClass": "a",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch biggest",
+            "request": "launch",
+            "mainClass": "biggest",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch aa",
+            "request": "launch",
+            "mainClass": "aa",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch peterson",
+            "request": "launch",
+            "mainClass": "peterson",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AccessArrayEle",
+            "request": "launch",
+            "mainClass": "AccessArrayEle",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Age",
+            "request": "launch",
+            "mainClass": "Age",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Customer",
+            "request": "launch",
+            "mainClass": "Customer",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Planetclass",
+            "request": "launch",
+            "mainClass": "Planetclass",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseNum",
+            "request": "launch",
+            "mainClass": "ReverseNum",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch car",
+            "request": "launch",
+            "mainClass": "car",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch cons",
+            "request": "launch",
+            "mainClass": "cons",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch fact",
+            "request": "launch",
+            "mainClass": "fact",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindromes",
+            "request": "launch",
+            "mainClass": "palindromes",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeNum",
+            "request": "launch",
+            "mainClass": "primeNum",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch random",
+            "request": "launch",
+            "mainClass": "random",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "practice_ddb36b18"
+        },
+        {
+            "type": "java",
+            "name": "Launch reversenum",
+            "request": "launch",
+            "mainClass": "reversenum",
+            "projectName": "practice_ddb36b18"
+        }
+    ]
+}
